@@ -1,0 +1,30 @@
+Record ID,Agency Code,Agency Name,Agency Type,City,State,Year,Month,Crime Type,Crime Solved,Victim Sex,Victim Age,Victim Race,Victim Ethnicity,Perpetrator Sex,Perpetrator Age,Perpetrator Race,Perpetrator Ethnicity,Relationship,Weapon,Victim Count,Perpetrator Count,Record Source
+1,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,January,Murder or Manslaughter,Yes,Male,14,Native American/Alaska Native,Unknown,Male,15,Native American/Alaska Native,Unknown,Acquaintance,Blunt Object,0,0,FBI
+2,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,March,Murder or Manslaughter,Yes,Male,43,White,Unknown,Male,42,White,Unknown,Acquaintance,Strangulation,0,0,FBI
+3,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,March,Murder or Manslaughter,No,Female,30,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,0,FBI
+4,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,April,Murder or Manslaughter,Yes,Male,43,White,Unknown,Male,42,White,Unknown,Acquaintance,Strangulation,0,0,FBI
+5,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,April,Murder or Manslaughter,No,Female,30,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+6,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,May,Murder or Manslaughter,Yes,Male,30,White,Unknown,Male,36,White,Unknown,Acquaintance,Rifle,0,0,FBI
+7,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,May,Murder or Manslaughter,Yes,Female,42,Native American/Alaska Native,Unknown,Male,27,Black,Unknown,Wife,Knife,0,0,FBI
+8,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,Murder or Manslaughter,Yes,Female,99,White,Unknown,Male,35,White,Unknown,Wife,Knife,0,0,FBI
+9,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,Murder or Manslaughter,No,Male,32,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FBI
+10,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,June,Murder or Manslaughter,Yes,Male,38,White,Unknown,Male,40,Unknown,Unknown,Unknown,Firearm,0,1,FBI
+11,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,July,Murder or Manslaughter,No,Male,36,Native American/Alaska Native,Unknown,Unknown,0,Unknown,Unknown,Unknown,Unknown,0,1,FBI
+12,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,July,Murder or Manslaughter,Yes,Male,20,White,Unknown,Male,49,White,Unknown,Stranger,Shotgun,0,0,FBI
+13,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,July,Murder or Manslaughter,Yes,Female,36,Black,Unknown,Male,39,Black,Unknown,Girlfriend,Blunt Object,0,0,FBI
+14,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,August,Murder or Manslaughter,Yes,Male,20,Native American/Alaska Native,Unknown,Male,49,White,Unknown,Unknown,Fall,0,0,FBI
+15,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,August,Murder or Manslaughter,No,Male,48,White,Unknown,Unknown,0,Unknown,Unknown,Unknown,Handgun,0,0,FBI
+16,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,August,Murder or Manslaughter,Yes,Male,31,Black,Unknown,Female,29,Black,Unknown,Ex-Husband,Handgun,0,0,FBI
+17,AK00101,Anchorage,Municipal Police,Anchorage,Alaska,1980,December,Murder or Manslaughter,Yes,Male,16,Unknown,Unknown,Male,19,Unknown,Unknown,Acquaintance,Knife,0,0,FBI
+18,AK00103,Juneau,Municipal Police,Juneau,Alaska,1980,November,Murder or Manslaughter,Yes,Male,33,Native American/Alaska Native,Unknown,Male,23,Native American/Alaska Native,Unknown,Brother,Blunt Object,0,1,FBI
+19,AK00106,Nome,Municipal Police,Nome,Alaska,1980,June,Murder or Manslaughter,Yes,Male,27,Native American/Alaska Native,Unknown,Male,33,Native American/Alaska Native,Unknown,Acquaintance,Handgun,0,0,FBI
+20,AK00113,Bethel,Municipal Police,Bethel,Alaska,1980,February,Murder or Manslaughter,Yes,Male,33,Native American/Alaska Native,Unknown,Male,35,Native American/Alaska Native,Unknown,Brother,Handgun,0,0,FBI
+225893,FL03103,Vero Beach,Municipal Police,Indian River,Florida,1991,March,Murder or Manslaughter,Yes,Male,22,White,Unknown,Male,27,White,Unknown,Unknown,Firearm,0,0,FOIA
+320616,FL05218,Tarpon Springs,Municipal Police,Pinellas,Florida,1995,December,Murder or Manslaughter,Yes,Female,31,White,Unknown,Female,35,White,Unknown,Unknown,Unknown,0,0,FOIA
+339550,FL00100,Alachua,Sheriff,Alachua,Florida,1996,February,Murder or Manslaughter,No,Male,17,Black,Unknown,Unknown,45,Unknown,Unknown,Unknown,Firearm,0,0,FOIA
+339551,FL00100,Alachua,Sheriff,Alachua,Florida,1996,July,Murder or Manslaughter,Yes,Male,45,Asian/Pacific Islander,Unknown,Male,45,Asian/Pacific Islander,Unknown,Unknown,Firearm,0,0,FOIA
+339553,FL00101,Gainesville,Municipal Police,Alachua,Florida,1996,January,Murder or Manslaughter,No,Male,54,White,Unknown,Unknown,30,Unknown,Unknown,Unknown,Firearm,0,0,FOIA
+339554,FL00101,Gainesville,Municipal Police,Alachua,Florida,1996,May,Murder or Manslaughter,No,Female,34,Black,Unknown,Unknown,0,Unknown,Unknown,Unknown,Firearm,0,0,FOIA
+339555,FL00101,Gainesville,Municipal Police,Alachua,Florida,1996,June,Murder or Manslaughter,Yes,Male,35,Black,Unknown,Male,20,Black,Unknown,Unknown,Firearm,0,0,FOIA
+339557,FL00300,Bay,Sheriff,Bay,Florida,1996,February,Murder or Manslaughter,Yes,Female,42,White,Unknown,Male,50,White,Unknown,Wife,Firearm,0,0,FOIA
+339558,FL00300,Bay,Sheriff,Bay,Florida,1996,May,Murder or Manslaughter,Yes,Male,32,Black,Unknown,Male,21,White,Unknown,Unknown,Firearm,0,0,FOIA
